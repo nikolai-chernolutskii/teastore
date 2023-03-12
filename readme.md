@@ -11,3 +11,5 @@ I have used the following features in this project:
 - Lazy loading
 - Mobile responsive styling
 - Responsive fonts, etc.
+
+Please note that the cart functionality is disabled since it requires a fully functioning CMS to work.
