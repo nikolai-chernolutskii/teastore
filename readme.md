@@ -13,3 +13,5 @@ I have used the following features in this project:
 - Responsive fonts, etc.
 
 Please note that the cart functionality is disabled since it requires a fully functioning CMS to work.
+
+[Project link](https://nikolai-chernolutskii.github.io/teastore/)
